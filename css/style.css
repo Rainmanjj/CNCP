@@ -1,0 +1,17 @@
+
+/* Global */
+
+
+/* Jumbotron */
+
+.jumbotron{
+  min-height: 800px;
+  background: url("../img/cover1.jpg") no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  font-family: Impact, Charcoal, sans-serif;
+}
